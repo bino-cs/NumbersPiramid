@@ -1,4 +1,4 @@
-# NumbersPiramid
+# NumbersPyramid
 the maximum sum of the numbers per the given rules below:
 
 
